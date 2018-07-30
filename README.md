@@ -3,7 +3,8 @@
 Recuerden ejecutar el comando ```npm install``` para las librerías.
 
 
-##Ejemplo:
+## Ejemplo:
+
 ```
 node app -d "Sombrerete México"
 ```
